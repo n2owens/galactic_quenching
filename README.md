@@ -24,10 +24,4 @@ Following this, test to ensure that you have access to gogreen.
 
 python -c "from dl import queryClient as qc, storeClient as sc; print(sc.services('gogreen_dr1'))"
 
-Expected Return:
-
-name\t         svc\t   description
-
-gogreen_dr1\t  vos\t   GOGREEN DR1 Survey
-
 In addition, ensure that NumPy, DateTime, and MatplotLib are all installed on your machine.
