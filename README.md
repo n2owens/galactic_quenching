@@ -26,7 +26,7 @@ python -c "from dl import queryClient as qc, storeClient as sc; print(sc.service
 
 Expected Return:
                     name   svc   description
-                --------   ----  --------
-             gogreen_dr1   vos   GOGREEN DR1 Survey
+                    --------   ----  --------
+                    gogreen_dr1   vos   GOGREEN DR1 Survey
 
 In addition, ensure that NumPy, DateTime, and MatplotLib are all installed on your machine.
