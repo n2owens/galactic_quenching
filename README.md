@@ -6,7 +6,7 @@ The project was completed in the Fall of 2021 under the supervision of Professor
 To run the notebook provided, the Python FSPS library must be installed and prepped. Refer to "https://dfm.io/python-fsps/current/" to learn more about FSPS for python. This includes installation guidelines and more.
 Ready the FSPS library before opening python by typing the following into the terminal:
 
-export SPS_HOME="/home/nialow/Documents/python_pkgs/"
+export SPS_HOME="/home/$USER/Documents/python_pkgs/"
 
 Test to ensure you have access to FSPS:
 
